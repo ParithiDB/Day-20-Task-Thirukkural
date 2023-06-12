@@ -1,0 +1,74 @@
+body {
+    background-image: url('https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2020/12/27/download-22-932188-1609076515.png?itok=YkoQSlMi');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p,
+h1{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.card{
+    margin-top: 30px;
+    min-width: 600px;
+    min-height: 500px;
+    background-color: darkslategray;
+    opacity: 0.85;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+.card-header{
+    min-height: 90px;
+    background-color: rgb(41, 48, 150);
+}
+
+.list-group-item {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.porul {
+        font-weight: normal;
+        padding: 20px;
+        list-style-type: none;
+        font-size: large;
+        color: aliceblue;
+}
+
+.Chapter {
+    display: flex;
+    text-align: justify;
+}
+
+p, h3, h1 {
+    color: rgb(255, 255, 255);
+}
+
+.kural {
+    background-color: darkgray;
+    border: 1px  solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+    color: black;
+    text-decoration: black;
+}
+
+hr{
+    border: 2px solid black;
+}
+
+
+
+.container-fluid {
+    width: 700px;
+    height: 100%
+}
+
+
+#eng {
+    display: flex;
+    height: 150px;
+}
